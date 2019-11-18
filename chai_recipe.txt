@@ -1,2 +1,3 @@
 Chai Recipe...
-
+ The ingredients are:
+	tea, milk, water, sugar.
